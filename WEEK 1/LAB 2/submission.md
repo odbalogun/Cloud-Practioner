@@ -15,4 +15,4 @@
 ![Password policy page](/images/pwd_policy.PNG)
 
 ## 3. Clean up operations
-    N/A
+    - Delete all created users and user groups
